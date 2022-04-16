@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview of the analysis:
-The PyBer analysis was done to make a comparison on Pybers performance in 3 differenr city types . The the folloiwng snippet shows the totals of city types and thier respective fares, drivers and revenue etc.
+The PyBer analysis was done to make a comparison of Pybers performance in 3 different city types . The the following snippet shows the totals of city types and thier respective fares, drivers and revenue etc.
 ![Totals](https://user-images.githubusercontent.com/93050682/144723917-5ba8aa0a-193b-4c38-8f90-8449efabd5b0.PNG)
 
 The analysis was done to point out areas of imporoivement and see the dofferences in avg fare and other factoirs which can help the company to improve its services and make informed decisions.
